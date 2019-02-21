@@ -3,7 +3,6 @@ import smtplib
 from email.mime.text import MIMEText
 
 print("******Welcome to site******")
-
 sender = '******@163.com'
 receiver = '******@qq.com'
 subject = 'python email test'
